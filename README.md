@@ -84,6 +84,7 @@ Mobile Screen (360x740):
 This portfolio is aimed at potential employers, who are technically inclined in this field and are looking to engage an Information Technology professional with Web Development skills.
 <br>
 <br>
+
 <u>TECH STACK</u>
 - HTML5
 - CSS 3
