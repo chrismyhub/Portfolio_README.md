@@ -86,7 +86,7 @@ This portfolio is aimed at potential employers, who are technically inclined in 
 <br>
 
 <u>TECH STACK</u>
-- HTML5
+- HTML 5
 - CSS 3
 - Deployment Platform: Netlify
 
